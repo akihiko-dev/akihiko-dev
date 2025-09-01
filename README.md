@@ -28,33 +28,33 @@
 ## 🎯 主要プロジェクト
 
 ### 🤖 AI & 自動化
-- **[ai-chatbridge](https://github.com/m-akihiko/ai-chatbridge)** - AIとChatworkの連携システム
-- **[knowledge-nexus](https://github.com/m-akihiko/knowledge-nexus)** - ナレッジ管理システム
+- **[ai-chatbridge](https://github.com/akihiko-dev/akihiko-dev/ai-chatbridge)** - AIとChatworkの連携システム
+- **[knowledge-nexus](https://github.com/akihiko-dev/akihiko-dev/knowledge-nexus)** - ナレッジ管理システム
 
 ### 💰 財務・投資管理
-- **[finance-sync](https://github.com/m-akihiko/finance-sync)** - 財務データ同期システム
-- **[portfolio-sync](https://github.com/m-akihiko/portfolio-sync)** - ポートフォリオ同期システム
-- **[crypto-sentinel](https://github.com/m-akihiko/crypto-sentinel)** - 暗号通貨監視システム
+- **[finance-sync](https://github.com/akihiko-dev/akihiko-dev/finance-sync)** - 財務データ同期システム
+- **[portfolio-sync](https://github.com/akihiko-dev/akihiko-dev/portfolio-sync)** - ポートフォリオ同期システム
+- **[crypto-sentinel](https://github.com/akihiko-dev/akihiko-dev/crypto-sentinel)** - 暗号通貨監視システム
 
 ### 📧 データバックアップ
-- **[gmail-vault-business](https://github.com/m-akihiko/gmail-vault-business)** - ビジネスGmailバックアップ
-- **[gmail-vault-personal](https://github.com/m-akihiko/gmail-vault-personal)** - 個人Gmailバックアップ
-- **[chatwork-vault](https://github.com/m-akihiko/chatwork-vault)** - Chatworkデータバックアップ
+- **[gmail-vault-business](https://github.com/akihiko-dev/akihiko-dev/gmail-vault-business)** - ビジネスGmailバックアップ
+- **[gmail-vault-personal](https://github.com/akihiko-dev/akihiko-dev/gmail-vault-personal)** - 個人Gmailバックアップ
+- **[chatwork-vault](https://github.com/akihiko-dev/akihiko-dev/chatwork-vault)** - Chatworkデータバックアップ
 
 ### 🔧 システム管理
-- **[cron-health-monitor](https://github.com/m-akihiko/cron-health-monitor)** - cronジョブ監視
-- **[security-management](https://github.com/m-akihiko/security-management)** - セキュリティ管理
-- **[file-vault-backup](https://github.com/m-akihiko/file-vault-backup)** - ファイルバックアップ
+- **[cron-health-monitor](https://github.com/akihiko-dev/akihiko-dev/cron-health-monitor)** - cronジョブ監視
+- **[security-management](https://github.com/akihiko-dev/akihiko-dev/security-management)** - セキュリティ管理
+- **[file-vault-backup](https://github.com/akihiko-dev/akihiko-dev/file-vault-backup)** - ファイルバックアップ
 
 ---
 
 ## 📊 GitHub統計
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m-akihiko&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akihiko-dev&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=m-akihiko&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akihiko-dev&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-akihiko&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akihiko-dev&theme=radical&hide_border=true)
 
 ---
 
@@ -70,18 +70,6 @@
 ---
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:straight.paa@gmail.cpm)
-
----
-
-## 🎵 現在の状況
-
-```python
-while True:
-    code()
-    learn()
-    improve()
-    repeat()
-```
 
 ---
 
