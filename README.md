@@ -27,21 +27,14 @@
 
 ## 🎯 主要プロジェクト
 
-### 🤖 AI & 自動化
 - **[ai-chatbridge](https://github.com/akihiko-dev/akihiko-dev/ai-chatbridge)** - AIとChatworkの連携システム
 - **[knowledge-nexus](https://github.com/akihiko-dev/akihiko-dev/knowledge-nexus)** - ナレッジ管理システム
-
-### 💰 財務・投資管理
 - **[finance-sync](https://github.com/akihiko-dev/akihiko-dev/finance-sync)** - 財務データ同期システム
 - **[portfolio-sync](https://github.com/akihiko-dev/akihiko-dev/portfolio-sync)** - ポートフォリオ同期システム
 - **[crypto-sentinel](https://github.com/akihiko-dev/akihiko-dev/crypto-sentinel)** - 暗号通貨監視システム
-
-### 📧 データバックアップ
 - **[gmail-vault-business](https://github.com/akihiko-dev/akihiko-dev/gmail-vault-business)** - ビジネスGmailバックアップ
 - **[gmail-vault-personal](https://github.com/akihiko-dev/akihiko-dev/gmail-vault-personal)** - 個人Gmailバックアップ
 - **[chatwork-vault](https://github.com/akihiko-dev/akihiko-dev/chatwork-vault)** - Chatworkデータバックアップ
-
-### 🔧 システム管理
 - **[cron-health-monitor](https://github.com/akihiko-dev/akihiko-dev/cron-health-monitor)** - cronジョブ監視
 - **[security-management](https://github.com/akihiko-dev/akihiko-dev/security-management)** - セキュリティ管理
 - **[file-vault-backup](https://github.com/akihiko-dev/akihiko-dev/file-vault-backup)** - ファイルバックアップ
@@ -55,17 +48,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akihiko-dev&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akihiko-dev&theme=radical&hide_border=true)
-
----
-
-## 🎨 開発哲学
-
-> **"個人の生産性を最大化し、セキュリティを最優先にする"**
-
-- 🔒 **セキュリティファースト**: すべてのプロジェクトでセキュリティを最優先
-- 🤖 **自動化**: 繰り返し作業は自動化して時間を節約
-- 📚 **知識管理**: 学んだことを体系化して再利用可能にする
-- 🎯 **実用性**: 実際に使えるシステムを構築
 
 ---
 
