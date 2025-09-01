@@ -1,4 +1,4 @@
-# 👋 森暁彦 (Mori Akihiko)
+# Welcome to My GitHub Profile! 👋
 
 ## 🚀 フルスタックエンジニア & システム管理者
 
@@ -69,19 +69,7 @@
 
 ---
 
-## 🌟 最近の活動
-
-- 🔥 **新しいプロジェクト**: 暗号通貨監視システムの開発
-- 📈 **ポートフォリオ管理**: 投資データの自動同期システム
-- 🔐 **セキュリティ強化**: 全プロジェクトのセキュリティ監査実施
-- 📧 **データ保護**: Gmail・Chatworkの自動バックアップシステム
-
----
-
-## 📫 連絡先
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-akihiko)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.akihiko@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:straight.paa@gmail.cpm)
 
 ---
 
