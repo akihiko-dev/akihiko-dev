@@ -81,7 +81,19 @@
 
 ---
 
-**"コードは詩であり、システムは芸術である"**
+<div align="center">
+
+## ✨ 哲学
+
+> ### 🎭 **"コードは詩であり、システムは芸術である"**
+
+<div style="font-size: 1.2em; color: #58a6ff; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+  <em>Code is Poetry, System is Art</em>
+</div>
+
+</div>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akihiko-dev&style=for-the-badge&color=blue" alt="Profile Views" />
