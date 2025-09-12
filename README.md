@@ -27,32 +27,62 @@
 
 ## 🎯 主要プロジェクト
 
-- **[ai-chatbridge](https://github.com/akihiko-dev/akihiko-dev/ai-chatbridge)** - AIとChatworkの連携システム
-- **[knowledge-nexus](https://github.com/akihiko-dev/akihiko-dev/knowledge-nexus)** - ナレッジ管理システム
-- **[finance-sync](https://github.com/akihiko-dev/akihiko-dev/finance-sync)** - 財務データ同期システム
-- **[portfolio-sync](https://github.com/akihiko-dev/akihiko-dev/portfolio-sync)** - ポートフォリオ同期システム
-- **[crypto-sentinel](https://github.com/akihiko-dev/akihiko-dev/crypto-sentinel)** - 暗号通貨監視システム
-- **[gmail-vault-business](https://github.com/akihiko-dev/akihiko-dev/gmail-vault-business)** - ビジネスGmailバックアップ
-- **[gmail-vault-personal](https://github.com/akihiko-dev/akihiko-dev/gmail-vault-personal)** - 個人Gmailバックアップ
-- **[chatwork-vault](https://github.com/akihiko-dev/akihiko-dev/chatwork-vault)** - Chatworkデータバックアップ
-- **[cron-health-monitor](https://github.com/akihiko-dev/akihiko-dev/cron-health-monitor)** - cronジョブ監視
-- **[security-management](https://github.com/akihiko-dev/akihiko-dev/security-management)** - セキュリティ管理
-- **[file-vault-backup](https://github.com/akihiko-dev/akihiko-dev/file-vault-backup)** - ファイルバックアップ
+### 🤖 AI・自動化システム
+- **[ai-chatbridge](https://github.com/akihiko-dev/ai-chatbridge)** - AIとChatworkの連携システム
+- **[knowledge-nexus](https://github.com/akihiko-dev/knowledge-nexus)** - ナレッジ管理システム
+- **[crypto-sentinel](https://github.com/akihiko-dev/crypto-sentinel)** - 暗号通貨監視システム
+
+### 💰 財務・ポートフォリオ管理
+- **[finance-sync](https://github.com/akihiko-dev/finance-sync)** - 財務データ同期システム
+- **[portfolio-sync](https://github.com/akihiko-dev/portfolio-sync)** - ポートフォリオ同期システム
+
+### 📧 データバックアップ・管理
+- **[gmail-vault-business](https://github.com/akihiko-dev/gmail-vault-business)** - ビジネスGmailバックアップ
+- **[gmail-vault-personal](https://github.com/akihiko-dev/gmail-vault-personal)** - 個人Gmailバックアップ
+- **[chatwork-vault](https://github.com/akihiko-dev/chatwork-vault)** - Chatworkデータバックアップ
+
+### 🔧 インフラ・監視
+- **[cron-health-monitor](https://github.com/akihiko-dev/cron-health-monitor)** - cronジョブ監視
+- **[security-management](https://github.com/akihiko-dev/security-management)** - セキュリティ管理
+- **[file-vault-backup](https://github.com/akihiko-dev/file-vault-backup)** - ファイルバックアップ
 
 ---
 
 ## 📊 GitHub統計
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akihiko-dev&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akihiko-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akihiko-dev&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akihiko-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akihiko-dev&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akihiko-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
-<div align="center">
+## 🎯 現在の取り組み
+
+- 🔄 **自動化システムの構築** - 日常業務の効率化
+- 🛡️ **セキュリティ強化** - 個人データの保護と管理
+- 📈 **データ分析** - 財務・投資データの可視化
+- 🤖 **AI活用** - 生産性向上のためのAIツール開発
+
+---
+
+## 📫 連絡先
+
+- 📧 **Email**: [straight.paa@gmail.com](mailto:straight.paa@gmail.com)
+- 💼 **LinkedIn**: [プロフィール](https://linkedin.com/in/akihiko-dev)
+- 🐦 **Twitter**: [@akihiko_dev](https://twitter.com/akihiko_dev)
+
+---
 
 **"コードは詩であり、システムは芸術である"**
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akihiko-dev&style=for-the-badge&color=blue" alt="Profile Views" />
 </div>
