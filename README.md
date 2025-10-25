@@ -65,10 +65,12 @@
 ```bash
 # AI & Automation Warfare
 ┌─────────────────────────────────────────────────────────┐
-│  🤖 ai-chatbridge     │ AIとChatworkの連携システム      │
-│  🧠 knowledge-nexus   │ ナレッジ管理システム            │
-│  💰 crypto-sentinel   │ 暗号通貨監視システム            │
-│  STATUS: OPERATIONAL  │ THREAT: EXTREME                │
+│  🤖 ai-chatbridge         │ AIとChatworkの連携システム  │
+│  🧠 knowledge-nexus       │ ナレッジ管理システム        │
+│  💰 crypto-sentinel       │ 暗号通貨監視システム        │
+│  📚 QA_System             │ ベクトル検索QAシステム      │
+│  🎬 ai-life-recorder      │ AI生活記録システム          │
+│  STATUS: OPERATIONAL      │ THREAT: EXTREME            │
 └─────────────────────────────────────────────────────────┘
 
 # Workspace & Knowledge Management
@@ -82,6 +84,8 @@
 ┌─────────────────────────────────────────────────────────┐
 │  💳 finance-sync      │ 財務データ同期システム          │
 │  📊 portfolio-sync    │ ポートフォリオ同期システム      │
+│  💰 salary-prophet    │ AI給与予測システム             │
+│  💵 salary-scout      │ 給与明細自動取得システム        │
 │  STATUS: ACTIVE       │ IMPACT: GLOBAL                  │
 └─────────────────────────────────────────────────────────┘
 
@@ -93,11 +97,19 @@
 │  STATUS: STEALTH         │ SECURITY: MAXIMUM            │
 └─────────────────────────────────────────────────────────┘
 
+# Security & Industrial AI
+┌─────────────────────────────────────────────────────────┐
+│  🛡️  security-management  │ セキュリティ管理システム    │
+│  🔒 usb-security-demo     │ USBセキュリティデモ         │
+│  🏭 patchcore-inspection  │ 産業異常検知システム        │
+│  STATUS: CLASSIFIED      │ DEFENSE: MAXIMUM             │
+└─────────────────────────────────────────────────────────┘
+
 # Infrastructure Supremacy
 ┌─────────────────────────────────────────────────────────┐
 │  ⏰ cron-health-monitor   │ cronジョブ監視              │
-│  🛡️  security-management  │ セキュリティ管理            │
 │  📁 file-vault-backup     │ ファイルバックアップ        │
+│  ⚙️  cron-jobs            │ cron統合管理                │
 │  STATUS: INVINCIBLE      │ PROTECTION: IMPENETRABLE     │
 └─────────────────────────────────────────────────────────┘
 ```
